@@ -1,0 +1,28 @@
+
+Target file: D:\Documents data\ZI_LAB1\EncryptedTextFiles\Cipher4.txt
+1 2 3 B AAZ AAA 
+
+Target file: D:\Documents data\ZI_LAB1\EncryptedTextFiles\LoremIpsumEncription.txt
+1 2 3 B AAZ AAA 
+
+Target file: D:\Documents data\ZI_LAB1\EncryptedTextFiles\Cipher4.txt
+1 2 3 B AAZ AAA 
+
+Target file: D:\Documents data\Enigma\a.txt
+1 2 3 B AAZ AAA 
+
+Target file: D:\Documents data\Enigma\a.txt
+1 2 3 B AAZ AAA 
+
+Target file: D:\Documents data\Enigma\a.txt
+1 2 3 B AAZ AAA 1 2 3 B AAZ AAA AB CD EF
+
+Target file: D:\Documents data\Enigma\target2.txt
+1 2 3 B AZB BDF 
+
+Target file: D:\Documents data\Enigma\tralala.txt
+1 2 3 B AAZ AAA 
+
+Target file: D:\Documents data\Enigma\New Text Document.txt
+1 2 3 B AAZ AAA 
+

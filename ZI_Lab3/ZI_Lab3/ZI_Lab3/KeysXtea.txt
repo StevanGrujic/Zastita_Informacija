@@ -1,0 +1,4 @@
+
+
+Target file: D:\Documents data\Enigma\target.txt
+123456789

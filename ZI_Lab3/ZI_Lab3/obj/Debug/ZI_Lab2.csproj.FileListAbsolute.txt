@@ -1,0 +1,33 @@
+C:\Users\WinWin\Desktop\ZI_Lab1_Enigma\ZI_Lab1_Enigma\bin\Debug\ZI_Lab1_Enigma.exe.config
+C:\Users\WinWin\Desktop\ZI_Lab1_Enigma\ZI_Lab1_Enigma\bin\Debug\ZI_Lab1_Enigma.exe
+C:\Users\WinWin\Desktop\ZI_Lab1_Enigma\ZI_Lab1_Enigma\bin\Debug\ZI_Lab1_Enigma.pdb
+C:\Users\WinWin\Desktop\ZI_Lab1_Enigma\ZI_Lab1_Enigma\obj\Debug\ZI_Lab2.csprojAssemblyReference.cache
+C:\Users\WinWin\Desktop\ZI_Lab1_Enigma\ZI_Lab1_Enigma\obj\Debug\ZI_Lab1_Enigma.EnigmaSettings.resources
+C:\Users\WinWin\Desktop\ZI_Lab1_Enigma\ZI_Lab1_Enigma\obj\Debug\ZI_Lab1_Enigma.Form1.resources
+C:\Users\WinWin\Desktop\ZI_Lab1_Enigma\ZI_Lab1_Enigma\obj\Debug\ZI_Lab1_Enigma.Properties.Resources.resources
+C:\Users\WinWin\Desktop\ZI_Lab1_Enigma\ZI_Lab1_Enigma\obj\Debug\ZI_Lab2.csproj.GenerateResource.cache
+C:\Users\WinWin\Desktop\ZI_Lab1_Enigma\ZI_Lab1_Enigma\obj\Debug\ZI_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\WinWin\Desktop\ZI_Lab1_Enigma\ZI_Lab1_Enigma\obj\Debug\ZI_Lab1_Enigma.exe
+C:\Users\WinWin\Desktop\ZI_Lab1_Enigma\ZI_Lab1_Enigma\obj\Debug\ZI_Lab1_Enigma.pdb
+C:\Users\WinWin\Desktop\ZI_Lab2\ZI_Lab2\bin\Debug\ZI_Lab1_Enigma.exe.config
+C:\Users\WinWin\Desktop\ZI_Lab2\ZI_Lab2\bin\Debug\ZI_Lab1_Enigma.exe
+C:\Users\WinWin\Desktop\ZI_Lab2\ZI_Lab2\bin\Debug\ZI_Lab1_Enigma.pdb
+C:\Users\WinWin\Desktop\ZI_Lab2\ZI_Lab2\obj\Debug\ZI_Lab2.csprojAssemblyReference.cache
+C:\Users\WinWin\Desktop\ZI_Lab2\ZI_Lab2\obj\Debug\ZI_Lab2.EnigmaSettings.resources
+C:\Users\WinWin\Desktop\ZI_Lab2\ZI_Lab2\obj\Debug\ZI_Lab2.Form1.resources
+C:\Users\WinWin\Desktop\ZI_Lab2\ZI_Lab2\obj\Debug\ZI_Lab1_Enigma.Properties.Resources.resources
+C:\Users\WinWin\Desktop\ZI_Lab2\ZI_Lab2\obj\Debug\ZI_Lab2.csproj.GenerateResource.cache
+C:\Users\WinWin\Desktop\ZI_Lab2\ZI_Lab2\obj\Debug\ZI_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\WinWin\Desktop\ZI_Lab2\ZI_Lab2\obj\Debug\ZI_Lab1_Enigma.exe
+C:\Users\WinWin\Desktop\ZI_Lab2\ZI_Lab2\obj\Debug\ZI_Lab1_Enigma.pdb
+D:\IV godina\Zastita informacija\Laboratorijske vezbe\ZI_Lab2\ZI_Lab2\ZI_Lab2\bin\Debug\ZI_Lab1_Enigma.exe.config
+D:\IV godina\Zastita informacija\Laboratorijske vezbe\ZI_Lab2\ZI_Lab2\ZI_Lab2\bin\Debug\ZI_Lab1_Enigma.exe
+D:\IV godina\Zastita informacija\Laboratorijske vezbe\ZI_Lab2\ZI_Lab2\ZI_Lab2\bin\Debug\ZI_Lab1_Enigma.pdb
+D:\IV godina\Zastita informacija\Laboratorijske vezbe\ZI_Lab2\ZI_Lab2\ZI_Lab2\obj\Debug\ZI_Lab2.csprojAssemblyReference.cache
+D:\IV godina\Zastita informacija\Laboratorijske vezbe\ZI_Lab2\ZI_Lab2\ZI_Lab2\obj\Debug\ZI_Lab2.EnigmaSettings.resources
+D:\IV godina\Zastita informacija\Laboratorijske vezbe\ZI_Lab2\ZI_Lab2\ZI_Lab2\obj\Debug\ZI_Lab2.Form1.resources
+D:\IV godina\Zastita informacija\Laboratorijske vezbe\ZI_Lab2\ZI_Lab2\ZI_Lab2\obj\Debug\ZI_Lab1_Enigma.Properties.Resources.resources
+D:\IV godina\Zastita informacija\Laboratorijske vezbe\ZI_Lab2\ZI_Lab2\ZI_Lab2\obj\Debug\ZI_Lab2.csproj.GenerateResource.cache
+D:\IV godina\Zastita informacija\Laboratorijske vezbe\ZI_Lab2\ZI_Lab2\ZI_Lab2\obj\Debug\ZI_Lab2.csproj.CoreCompileInputs.cache
+D:\IV godina\Zastita informacija\Laboratorijske vezbe\ZI_Lab2\ZI_Lab2\ZI_Lab2\obj\Debug\ZI_Lab1_Enigma.exe
+D:\IV godina\Zastita informacija\Laboratorijske vezbe\ZI_Lab2\ZI_Lab2\ZI_Lab2\obj\Debug\ZI_Lab1_Enigma.pdb

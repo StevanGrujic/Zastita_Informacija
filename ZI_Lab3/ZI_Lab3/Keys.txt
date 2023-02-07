@@ -1,0 +1,3 @@
+Target file: D:\Documents data\Enigma\tralala.txt
+1 2 3 B AAZ AAA 
+

@@ -1,0 +1,11 @@
+C:\Users\WinWin\source\repos\ZI_Lab1_Enigma\ZI_Lab1_Enigma\bin\Debug\ZI_Lab1_Enigma.exe.config
+C:\Users\WinWin\source\repos\ZI_Lab1_Enigma\ZI_Lab1_Enigma\bin\Debug\ZI_Lab1_Enigma.exe
+C:\Users\WinWin\source\repos\ZI_Lab1_Enigma\ZI_Lab1_Enigma\bin\Debug\ZI_Lab1_Enigma.pdb
+C:\Users\WinWin\source\repos\ZI_Lab1_Enigma\ZI_Lab1_Enigma\obj\Debug\ZI_Lab1_Enigma.EnigmaSettings.resources
+C:\Users\WinWin\source\repos\ZI_Lab1_Enigma\ZI_Lab1_Enigma\obj\Debug\ZI_Lab1_Enigma.Form1.resources
+C:\Users\WinWin\source\repos\ZI_Lab1_Enigma\ZI_Lab1_Enigma\obj\Debug\ZI_Lab1_Enigma.Properties.Resources.resources
+C:\Users\WinWin\source\repos\ZI_Lab1_Enigma\ZI_Lab1_Enigma\obj\Debug\ZI_Lab1_Enigma.csproj.GenerateResource.cache
+C:\Users\WinWin\source\repos\ZI_Lab1_Enigma\ZI_Lab1_Enigma\obj\Debug\ZI_Lab1_Enigma.csproj.CoreCompileInputs.cache
+C:\Users\WinWin\source\repos\ZI_Lab1_Enigma\ZI_Lab1_Enigma\obj\Debug\ZI_Lab1_Enigma.exe
+C:\Users\WinWin\source\repos\ZI_Lab1_Enigma\ZI_Lab1_Enigma\obj\Debug\ZI_Lab1_Enigma.pdb
+C:\Users\WinWin\source\repos\ZI_Lab1_Enigma\ZI_Lab1_Enigma\obj\Debug\ZI_Lab1_Enigma.csprojAssemblyReference.cache
